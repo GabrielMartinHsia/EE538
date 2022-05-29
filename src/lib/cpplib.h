@@ -13,6 +13,10 @@ class CPPLib {
   std::string PrintHelloWorld();
 
   // NOTE: write your own function declaration q2 here
+  float FindMedian();
+
+  //q4
+  std::string RandomCase();
 
   // Print your self-introduction
   std::string PrintIntro();
